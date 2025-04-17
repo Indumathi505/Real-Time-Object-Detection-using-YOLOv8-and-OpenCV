@@ -1,6 +1,2 @@
 # Real-Time-Object-Detection-using-YOLOv8-and-OpenCV
-• Built an end-to-end object detection system using YOLOv8 pretrained models for both static image and real-time video input.
-• Utilized Ultralytics YOLOv8 library to detect and label objects with bounding boxes and confidence scores.
-• Integrated OpenCV for video stream capture, real-time frame processing, and dynamic object tracking.
-• Implemented custom class label mapping and dynamic color coding for visualization using the COCO dataset.
-• Explored model accuracy and confidence threshold tuning to optimize detection results.
+Built an end-to-end object detection system using YOLOv8 pretrained models for both static image and real-time video input.Utilized Ultralytics YOLOv8 library to detect and label objects with bounding boxes and confidence scores.Integrated OpenCV for video stream capture, real-time frame processing, and dynamic object tracking.Implemented custom class label mapping and dynamic color coding for visualization using the COCO dataset.Explored model accuracy and confidence threshold tuning to optimize detection results.
